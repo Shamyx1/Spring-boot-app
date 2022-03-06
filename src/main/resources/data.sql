@@ -1,0 +1,10 @@
+INSERT INTO LANGUAGE_MODEL VALUES (1,'English', 'Hello World');
+INSERT INTO LANGUAGE_MODEL VALUES (2,'Serbian', 'Zdravo Svete');
+INSERT INTO LANGUAGE_MODEL VALUES (3,'Turkish', 'Selam Dünya');
+INSERT INTO LANGUAGE_MODEL VALUES (4,'Spanish', 'Hola Mundo');
+INSERT INTO LANGUAGE_MODEL VALUES (5,'French', 'Bonjour le monde');
+INSERT INTO LANGUAGE_MODEL VALUES (6,'Russian', 'Privet mir');
+INSERT INTO LANGUAGE_MODEL VALUES (7,'Polish', 'Witaj świecie');
+INSERT INTO LANGUAGE_MODEL VALUES (8,'Hungarian', 'Helló Világ');
+INSERT INTO LANGUAGE_MODEL VALUES (9,'Greek', 'Geiá sou Kósme');
+INSERT INTO LANGUAGE_MODEL VALUES (10,'Italian', 'Ciao mondo');
