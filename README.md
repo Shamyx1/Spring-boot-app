@@ -14,7 +14,7 @@ dev
 ext
 
 URL's:
-"" - index page
+/ - index page
 /all - shows all languages & words
 /hello-rest - shows String "Hello World"
 /hello - shows HTML page with "Hello World"
