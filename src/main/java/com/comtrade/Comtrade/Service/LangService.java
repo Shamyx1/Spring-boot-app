@@ -12,7 +12,7 @@ import java.util.Map;
 public class LangService {
 
     @Autowired
-    private LangRepository langRepo;
+    protected LangRepository langRepo;
 
     public LangService(){}
 
